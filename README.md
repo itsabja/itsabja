@@ -8,31 +8,7 @@ My professional journey began in the world of visual storytelling and digital me
 To bring movement to my creations, I stepped into the world of scripting, starting with Python and Batch Scripting to automate environments. This path led me to web development, beginning with the essentials of HTML and CSS. However, the true turning point was discovering PHP. It was here that I transitioned from a creator of visuals to an architect of systems, focusing on backend logic, independent architectures, and web-based security. Today, I build applications where aesthetic precision meets hardened, secure code.
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=au" height="40" alt="adobeaudition logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img src="https://skillicons.dev/icons?i=php,html,py,css,js,ps,pr,au,bootstrap,godot,phpstorm,vscode,wordpress" alt="My Skills" />
 </div>
 
 ###
