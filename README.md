@@ -1,48 +1,57 @@
-# Hi, I'm Abja. 
-"I'm Abolfazl Jamali, or simply Abja. I'm a Full-Stack Developer who has traveled thousands of miles—one scroll at a time—through the world of code. From deep-diving into documentations to building end-to-end applications, I've turned every pixel scrolled into a skill mastered.
+# Hi, I'm Abja. 
+"I'm Abolfazl Jamali, or simply Abja. I'm a Full-Stack Developer who has traveled thousands of miles—one scroll at a time—through the world of code. From deep-diving into documentations to building end-to-end applications, I've turned every pixel scrolled into a skill mastered."
 
 # About Me:
 
-<br clear="both">
+My professional journey began in the world of visual storytelling and digital media. I started with video editing and post-production, mastering the art of motion and composition. This visual foundation naturally evolved into 2D animation and later into game development, where I first encountered the necessity of complex logic and structural thinking.
+
+To bring movement to my creations, I stepped into the world of scripting, starting with Python and Batch Scripting to automate environments. This path led me to web development, beginning with the essentials of HTML and CSS. However, the true turning point was discovering PHP. It was here that I transitioned from a creator of visuals to an architect of systems, focusing on backend logic, independent architectures, and web-based security. Today, I build applications where aesthetic precision meets hardened, secure code.
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=au" height="40" alt="adobeaudition logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="phpstorm logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pr" height="40" alt="adobepremierepro logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=au" height="40" alt="adobeaudition logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=godot" height="40" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=phpstorm" height="40" alt="phpstorm logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
 </div>
 
 ###
 
-Don't fear the error, fear the architect.
-
-Security Architect | PHP Developer | Network Security Specialist
+**Security-Focused Developer | PHP Architect | Full-Stack Creator**
 
 I write code that's 50% security, 50% chaos, and 100% functional.
 If you can understand my 5000-line single file, you're hired.
 
+---
+
+### The Architect's Manifesto:
+> **"Don't fear the error, fear the architect."**
+
+I write code that's **50% security, 50% chaos, and 100% functional.** My work is proof that you don't need a thousand files to build a masterpiece—sometimes, the most complex logic lives within the most streamlined structure.
+
+---
+
 ### Get in Touch:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/Its.abja)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:Its.abja@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/Its.abja) 
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Its.abja@gmail.com)
