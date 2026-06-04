@@ -1,4 +1,4 @@
-# Hi, I'm Abja. 
+# Hi, I'm Abolfazl Jamali (Abja).
 I'm Abolfazl Jamali, or simply Abja. I'm a Full-Stack Developer who has traveled thousands of miles—one scroll at a time—through the world of code. From deep-diving into documentations to building end-to-end applications, I've turned every pixel scrolled into a skill mastered.
 
 # About Me:
