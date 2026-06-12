@@ -23,8 +23,6 @@ If you can understand my 5000-line single file, you're hired.
 ### The Architect's Manifesto:
 > **"Complexity is just an unwritten algorithm."**
 
-I write code that's **50% security, 50% chaos, and 100% functional.** My work is proof that you don't need a thousand files to build a masterpiece—sometimes, the most complex logic lives within the most streamlined structure.
-
 ---
 
 ### Get in Touch:
